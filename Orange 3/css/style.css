@@ -1,0 +1,64 @@
+{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: orange;
+}
+
+h1, p {
+  color: white;
+}
+
+a:hover {
+  border-bottom: 1px solid orange;
+}
+
+button {
+  border: 1px solid orange;
+  color: orange;
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+body {
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  width: 100%;
+
+}
+
+#home {
+    width: 100%;
+}
+
+table {
+    margin: auto;
+    text-align: center;
+}
+body {rr                                                                       y
+  font-family: "Arial", sans-serif;
+}
+body {
+  background-image: url("images/orange.jpg");
+  background-size: cover;
+}
+body {
+  padding: 20px;
+}
+#home {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+}
+button:hover {
+  background-color: orange;
+  color: white;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+body {
+  position: relative;
+}
